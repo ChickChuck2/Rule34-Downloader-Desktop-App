@@ -12,8 +12,7 @@ Aqui vemos algumas funções como
 - [x] Download rápido
 - [x] Detectação de pastas com imagens gifs e videos
 - [ ] Gerenciar vídeos
-
-[^note]:
-  Sex
+- [x] Teclas de atalhos
+- [x] Tray
 
 ![Logo](https://rule34.xxx/images/header2.png)
