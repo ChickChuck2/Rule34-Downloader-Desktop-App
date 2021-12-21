@@ -12,3 +12,5 @@ Aqui vemos algumas funções como
 > Presença no discord com botões
 
 > Auto completar a tag
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
