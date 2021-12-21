@@ -13,4 +13,7 @@ Aqui vemos algumas funções como
 - [x] Detectação de pastas com imagens gifs e videos
 - [ ] Gerenciar vídeos
 
+[^note]:
+  Sex
+
 ![Logo](https://rule34.xxx/images/header2.png)
